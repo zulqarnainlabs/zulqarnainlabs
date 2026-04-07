@@ -5,4 +5,5 @@ I'm Zulqarnain, a student passionate about
 
 > ### 🖋️ Inspiration
 > **"Sitaron se aage jahan aur bhi hain,
-> Abhi ishq ke imtihan aur bhi hain."** > — *Allama Iqbal*
+>  abhi ishq ke imtihan aur bhi hain."**
+>  — *Allama Iqbal*
