@@ -9,11 +9,11 @@ Hi there 👋
 
 I'm **Zulqarnain** — a student exploring **Computer Science, Bioinformatics, and problem-solving through code**.
 
-I’m focused on building a strong foundation while keeping my path open in:
+I’m focused on building a strong foundation while keeping my path open across:
 
 * Bioinformatics 🧬
 * Software Development 💻
-* Data & AI 📊
+* Data Science & AI 📊
 
 ---
 
