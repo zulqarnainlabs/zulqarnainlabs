@@ -7,9 +7,9 @@
 
 Hi there 👋
 
-I'm **Zulqarnain** — a student exploring **Computer Science, Bioinformatics, and problem solving through code**.
+I'm **Zulqarnain** — a student exploring **Computer Science, Bioinformatics, and problem-solving through code**.
 
-I’m focused on building a strong foundation while keeping my path open across:
+I’m focused on building a strong foundation while keeping my path open in:
 
 * Bioinformatics 🧬
 * Software Development 💻
@@ -23,16 +23,16 @@ I’m focused on building a strong foundation while keeping my path open across:
 
 ### 🔗 Featured Repository
 
-* [**learning-bioinformatics**](https://github.com/zulqarnaininfo/learning-bioinformatics)   
-  → A personal learning journal of small projects, experiments, and progress over time
+* [**learning-bioinformatics**](./learning-bioinformatics/)   
+  → A personal learning journal of small projects, experiments, and my progress over time
 
 ---
 
 ### 🚧 About My Work
 
-Most of my projects are **small and simple by design** — they reflect my learning process.
+Most of my projects are **small and simple by design** — reflecting my learning process.
 
-Over time, this will evolve into more structured and complete work.
+Over time, this will evolve into more structured and complete projects.
 
 </details>
 
